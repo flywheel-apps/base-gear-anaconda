@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM continuumio/anaconda
 
 ENV GEAR_BASE_DIR=/flywheel/v0
 
